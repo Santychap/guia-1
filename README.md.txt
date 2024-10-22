@@ -1,4 +1,3 @@
 # guia-1
 versionamiento
-estos cambios hare espero salgan por finnnnn
-ESTE ES OTRO COMMIT
+Este es mi ultimo ejemplo de hacer un comiit, para estar claro
