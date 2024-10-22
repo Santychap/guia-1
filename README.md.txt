@@ -1,3 +1,3 @@
 # guia-1
 versionamiento
-estos cambios hare espero salgan por finnnn
+estos cambios hare espero salgan por finnnnn
